@@ -1,0 +1,18 @@
+{
+  "0461daf5": {
+    "id": "0461daf5",
+    "customer_name": "Aditya ",
+    "customer_email": "aditya@gmail.com",
+    "subject": "lshbvb",
+    "description": "bsjqblc ew",
+    "status": "agent_review",
+    "priority": "medium",
+    "category": "general",
+    "ai_resolution": "AI service unavailable: An error occurred (UnrecognizedClientException) when calling the InvokeModel operation: The security token included in the request is invalid.",
+    "ai_confidence": 0.5,
+    "agent_notes": null,
+    "resolution": null,
+    "created_at": "2026-04-08T16:50:46.950189",
+    "updated_at": "2026-04-08T16:50:46.950211"
+  }
+}
